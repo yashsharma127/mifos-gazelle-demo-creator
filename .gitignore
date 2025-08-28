@@ -19,7 +19,6 @@ demo_output.json
 demos/*.json
 
 # IDEs
-.vscode/
 .idea/
 *.swp
 
@@ -32,3 +31,6 @@ demos/*.json
 demos/
 
 gazelle_artifacts/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
